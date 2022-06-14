@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="21708" started-at="2022-06-14T11:48:59 MST" finished-at="2022-06-14T11:49:21 MST">
+    <groups>
+    </groups>
+    <test name="C:/Users/mstor/IdeaProjects/testng_initial_project" duration-ms="21708" started-at="2022-06-14T11:48:59 MST" finished-at="2022-06-14T11:49:21 MST">
+      <class name="scripts.CarsCom">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.CarsCom@1a3869f4]" name="setup" is-config="true" duration-ms="6110" started-at="2022-06-14T11:48:59 MST" finished-at="2022-06-14T11:49:05 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSignInPageForm()[pri:1, instance:scripts.CarsCom@1a3869f4]" name="testSignInPageForm" duration-ms="391" started-at="2022-06-14T11:49:05 MST" description="TC1 | Validate Cars.com Sign in page form" finished-at="2022-06-14T11:49:05 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInPageForm -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.CarsCom@1a3869f4]" name="teardown" is-config="true" duration-ms="837" started-at="2022-06-14T11:49:05 MST" finished-at="2022-06-14T11:49:06 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.CarsCom@1a3869f4]" name="setup" is-config="true" duration-ms="4829" started-at="2022-06-14T11:49:06 MST" finished-at="2022-06-14T11:49:11 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSignInPageSocialMediaSection()[pri:2, instance:scripts.CarsCom@1a3869f4]" name="testSignInPageSocialMediaSection" duration-ms="302" started-at="2022-06-14T11:49:11 MST" description="TC2 | Validate Cars.com Sign in page social media section" finished-at="2022-06-14T11:49:11 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInPageSocialMediaSection -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.CarsCom@1a3869f4]" name="teardown" is-config="true" duration-ms="872" started-at="2022-06-14T11:49:11 MST" finished-at="2022-06-14T11:49:12 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.CarsCom@1a3869f4]" name="setup" is-config="true" duration-ms="5276" started-at="2022-06-14T11:49:12 MST" finished-at="2022-06-14T11:49:18 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testFailedSignInInvalidCredentials()[pri:3, instance:scripts.CarsCom@1a3869f4]" name="testFailedSignInInvalidCredentials" duration-ms="2152" started-at="2022-06-14T11:49:18 MST" description="TC3 | Validate user cannot sign in to Cars.com with invalid credentials" finished-at="2022-06-14T11:49:20 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFailedSignInInvalidCredentials -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.CarsCom@1a3869f4]" name="teardown" is-config="true" duration-ms="937" started-at="2022-06-14T11:49:20 MST" finished-at="2022-06-14T11:49:21 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.CarsCom -->
+    </test> <!-- C:/Users/mstor/IdeaProjects/testng_initial_project -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
